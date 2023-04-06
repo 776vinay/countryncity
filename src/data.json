@@ -1,0 +1,16 @@
+{
+  "countries": [
+    {
+      "name": "USA",
+      "cities": ["New York", "Los Angeles", "Chicago"]
+    },
+    {
+      "name": "Canada",
+      "cities": ["Toronto", "Vancouver", "Montreal"]
+    },
+    {
+      "name": "Mexico",
+      "cities": ["Mexico City", "Cancun", "Guadalajara"]
+    }
+  ]
+}
